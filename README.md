@@ -25,3 +25,14 @@ npx hardhat compile
 3. 编写测试用例
    1. 使用 mocha 框架编写测试用例
    2. 运行测试 npx hardhat test 
+
+# 部署到 Ethereum Sepolia 测试练
+ 1. 创建 app 获取到 api key https://dashboard.alchemy.com/
+ 2. 获取到 api key
+ 3. 获取到 wallet private key
+ 4. 配置 .env 文件
+ 5. 获取测试 gas 
+    1. https://cloud.google.com/application/web3/faucet/ethereum/sepolia
+    
+    . 
+
